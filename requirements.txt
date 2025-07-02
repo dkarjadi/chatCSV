@@ -1,6 +1,6 @@
 streamlit==1.35.0
 pandas==2.2.2
-sentence_transformers==2.6.1
+sentence-transformers==2.6.1
 faiss-cpu==1.11.0
 numpy==1.26.4
 openai==0.28.0
